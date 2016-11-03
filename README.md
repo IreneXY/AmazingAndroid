@@ -84,3 +84,6 @@
 
 ## Tools:
 * mp4 to gif: http://ezgif.com/video-to-gif
+
+## Userful Tips:
+* How to switch between hide and view password: http://stackoverflow.com/questions/3685790/how-to-switch-between-hide-and-view-password
